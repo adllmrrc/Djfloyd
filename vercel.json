@@ -1,0 +1,18 @@
+{
+  "buildCommand": "",
+  "devCommand": "",
+  "outputDirectory": ".",
+  "framework": "html",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/legal",
+      "destination": "/legal.html"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/index.html"
+    }
+  ]
+}
