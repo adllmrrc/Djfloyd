@@ -1,10 +1,14 @@
-# Navbar to Very Top - Implementation Plan
+=======
+# Navbar to Very Top - Implementation Plan (Complete)
+=======
+# TODO: Clean Repo & Push
 
-## Steps:
-- [x] 1. Update css/styles.css: Add .hero-container rule and adjust .hero padding
-- [x] 2. Update index.html: Move <header> before hero section, change hero .container to .hero-container
-- [ ] 3. Verify: Navbar at document top, hero below, sticky works, smooth scroll intact
-- [ ] 4. Responsive check: Mobile nav ok
-- [ ] 5. Complete task
+✅ Step 1: Create .gitignore  
+✅ Step 2: Create README.md  
+- [ ] Step 3: Fix/Rewrite clean index.html (fix encoding, complete content)  
+- [ ] Step 4: Verify all links/images work  
+- [ ] Step 5: git add/commit "Clean repo: fix index.html, add docs"  
+- [ ] Step 6: git push origin main  
+- [ ] Step 7: Verify on GitHub, test site
 
-Current progress: Edits complete. Navbar moved to very top. Test in browser: Sticky nav works, hero below, smooth scroll intact. Responsive mobile nav ok.
+
